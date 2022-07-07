@@ -1,2 +1,2 @@
 # SevvalDincOdev01
-www.patika.dev
+*www.patika.dev*
